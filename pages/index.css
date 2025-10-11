@@ -205,3 +205,11 @@
   line-height: 30px;
   color: #fff;
 }
+
+/* Reservation */
+
+.reservation {
+  min-height: 720px;
+  max-height: 800px;
+  height: 100vh;
+}
