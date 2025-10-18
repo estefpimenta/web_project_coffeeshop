@@ -1,0 +1,29 @@
+/* Header Nav */
+
+.nav__logo {
+  width: 105px;
+  height: 39px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+.nav__links {
+  display: flex;
+  position: absolute;
+  top: 30px;
+  right: 80px;
+  gap: 20px;
+  list-style-type: none;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.nav__link {
+  text-decoration: none;
+}
