@@ -9,6 +9,7 @@ A página da cafeteria Triple Peaks é o quarto projeto no programa de desenvolv
 - Posicionamento
 - Formulários
 - Metodologia BEM
+- Hover
 
 ## Planos de melhoria do projeto
 
