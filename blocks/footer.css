@@ -1,0 +1,33 @@
+/* Footer */
+
+.footer {
+  box-sizing: border-box;
+  background-color: #0A2850;
+  color: #fff;
+  padding: 60px 80px;
+
+  position: relative;
+  overflow: hidden;
+}
+
+.footer__content{
+  display: flex;
+}
+
+.footer__circle {
+  width: 340px;
+  height: 340px;
+  border-radius: 50%;
+  background-color: #2F80ED;
+
+  position: absolute;
+  top: -120px;
+  left: -44px;
+  z-index: 0;
+}
+
+.footer__logo {
+  height: 39px;
+  width: 105px;
+  z-index: 1;
+}
