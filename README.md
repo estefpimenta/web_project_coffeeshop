@@ -10,3 +10,6 @@ A página da cafeteria Triple Peaks é o quarto projeto no programa de desenvolv
 - Formulários
 - Metodologia BEM
 
+## Planos de melhoria do projeto
+
+Penso que, futuramente podemos adicionar um modo dark na página, por meio de manipulação da DOM com JS.
